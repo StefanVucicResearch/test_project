@@ -9,6 +9,8 @@ object TestMain {
     val nc = new FirstClass(45)
     nc.printVal()
 
+    println(s"For new branch value is same: ${nc.printVal()}")
+
   }
 
 }
