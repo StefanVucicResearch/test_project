@@ -11,6 +11,8 @@ object TestMain {
 
     println(s"For new branch value is same: ${nc.printVal()}")
 
+    println("One more println")
+
   }
 
 }
