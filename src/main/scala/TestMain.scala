@@ -9,7 +9,7 @@ object TestMain {
     val nc = new FirstClass(45)
     nc.printVal()
 
-    println("Print for new branch")
+    println(s"Print for new branch: ${nc.printVal()}")
 
   }
 
