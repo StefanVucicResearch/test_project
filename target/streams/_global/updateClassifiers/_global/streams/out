@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/x/git_test/test_project/"), "test_project")...
+[debug] Done updating ProjectRef(uri("file:/home/x/git_test/test_project/"), "test_project")

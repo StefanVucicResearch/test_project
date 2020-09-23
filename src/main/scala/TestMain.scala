@@ -12,6 +12,8 @@ object TestMain {
     val n = FirstClass(721)
     println(s"\nThis is value for second object:\n" + n.toString)
 
+    println("test")
+
 
 
   }
