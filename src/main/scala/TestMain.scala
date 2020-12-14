@@ -14,6 +14,8 @@ object TestMain {
 
     println("test")
 
+    println("local testing")
+
 
 
   }
